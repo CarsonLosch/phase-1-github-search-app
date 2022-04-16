@@ -11,3 +11,8 @@
 ul {
   list-style: none;
 }
+
+.userpic {
+  width: 100px;
+  height: 100px;
+}
